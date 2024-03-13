@@ -50,4 +50,4 @@ Av. Iguaçu, nº 2820, 6º andar, bairro Água Verde, Curitiba-PR, CEP 80240-031
 CNPJ: 52.871.351/0001-71
 DUNS NUMBER: 762295233
 
-Data de Vigência: [Inserir data de vigência]
+Data de Vigência: 05/02/2024
