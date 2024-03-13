@@ -1,4 +1,4 @@
 # Bem vindo ao Aplicativo Acerta Loterias
 
-## Menu
+## Acessar
 - [Política de Privacidade](PrivacyPolicy.md)
