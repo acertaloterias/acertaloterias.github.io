@@ -1,6 +1,4 @@
-# acertaloterias.github.io
-
 # Bem vindo ao Aplicativo Acerta Loterias
 
-## Table of Contents
+## Menu
 - [Política de Privacidade](PrivacyPolicy.md)
