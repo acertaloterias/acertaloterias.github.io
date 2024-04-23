@@ -1,6 +1,6 @@
 # Bem vindo ao Aplicativo *Acerta Lotofácil*
 
 ## Acessar
-- [https://linktr.ee/acertalotofacil](Links Oficiais)
+- [Links Oficiais](https://linktr.ee/acertalotofacil)
 - [Política de Privacidade](PrivacyPolicy.md)
 - [Excluir Conta](Delete.md)
