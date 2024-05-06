@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.app.acertalotofacil",
+      "sha256_cert_fingerprints": [
+        "38:BF:9E:B6:21:30:94:8F:2F:86:8F:0D:A3:EB:C0:06:41:C8:9F:32:FC:60:71:02:43:94:FA:BB:8D:14:26:BB"
+      ]
+    }
+  }
+]
